@@ -44,16 +44,22 @@ python agente.py
 ## 📸 Demonstração
 
 ### Menor custo por lead
-![Menor CPL](prints/print1.png)
+![Menor CPL](prints/menor custo por lead.png)
+
+### Engajamento
+![Engajamento](prints/engajamento.png)
+
+### Fechamentos
+![Fechamentos](prints/fechamentos.png)
 
 ### ROI por campanha
-![ROI](prints/print3.png)
+![ROI](prints/ROI.png)
 
 ### Desempenho semanal
-![Semanal](prints/print4.png)
+![Semanal](prints/semanal.png)
 
 ### Encerrando o agente
-![Finalizando](prints/finalizando_chat.png)### Encerrando o agente
+![Finalizando](prints/finalizando chat.png)
 
 ## 🧠 O que aprendi construindo este projeto
 
